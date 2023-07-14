@@ -12,7 +12,7 @@ This approach was inspired by https://github.com/graph4ai/graph4nlp_demo.
   ...
   ```
 
-  where each line is a sample (text-label pair), and the label is either `0` or `1`.
+  where each line is a sample (text-label pair), and the label is either `0` (representing health control) or `1` (representing probable AD).
 
 - install dependencies
 
