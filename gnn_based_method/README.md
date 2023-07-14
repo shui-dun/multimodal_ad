@@ -9,9 +9,10 @@ This approach was inspired by https://github.com/graph4ai/graph4nlp_demo.
   ```
   text1 label1
   text2 label2
+  ...
   ```
 
-  where text1 and label1 are separated by a tab, and label is either `0` or `1`.
+  where each line is a sample (text-label pair), and the label is either `0` or `1`.
 
 - install dependencies
 
